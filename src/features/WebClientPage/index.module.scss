@@ -1,0 +1,20 @@
+.defiProtocolPage {
+  th, td {
+    padding: 10px !important;
+  }
+
+  tr:first-child {
+    td {
+      padding: 0 !important;
+    }
+  }
+
+  .extendRow {
+    text-align: center;
+  }
+
+}
+
+.searchBar {
+  margin: 10px;
+}
